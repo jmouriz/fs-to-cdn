@@ -15,12 +15,12 @@ En esto:
 ```
 
 O esto:
-      ```
+
 ```
 <link rel="stylesheet" href="https://unpkg.com/angular-material/angular-material.min.css" />
 ```
 
-Dependiendo si está disponible la version sea en package.json o bower.json.
 
+Dependiendo si está disponible la version sea en package.json o bower.json. Según las especificaciones de [unpkg](https://unpkg)
 
 ¡Superútil!
