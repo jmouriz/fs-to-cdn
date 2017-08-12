@@ -21,6 +21,6 @@ O esto:
 ```
 
 
-Dependiendo si está disponible la version sea en package.json o bower.json. Según las especificaciones de [unpkg](https://unpkg)
+Dependiendo si está disponible la version sea en package.json o bower.json, según las especificaciones de [unpkg](https://unpkg.com)
 
 ¡Superútil!
